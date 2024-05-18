@@ -4,9 +4,8 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('https://images.unsplash.com/photo-1501862700950-18382cd41497?q=80&w=2019&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
-    /* 다양한 배경 속성을 추가할 수 있습니다 */
-    background-size: cover; /* 이미지가 화면에 맞게 조절되도록 설정합니다 */
-    background-position: center; /* 이미지를 가운데 정렬합니다 */
+    background-size: cover; 
+    background-position: center; 
     background-repeat: no-repeat; 
     /* background-color: #f4f4f4;
     color: #333; */
